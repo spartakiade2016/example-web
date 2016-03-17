@@ -1,5 +1,7 @@
 # example-web
 
+This is a website example
+
 ## How to use
 
 The following npm scripts are available:

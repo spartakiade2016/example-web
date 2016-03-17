@@ -1,14 +1,11 @@
 {
   "name": "example-web",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a website example",
   "author": "Andreas Helmberger <public@ahelmberger.de>",
   "license": "MIT",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
+  "repository": "spartakiade/example-web",
   "scripts": {
     "start": "node index.js",
     "test": "gulp test",
@@ -21,7 +18,7 @@
     "express-endpoints": "^1.0.0",
     "http-graceful-shutdown": "^1.0.6",
     "jquery": "^2.2.1",
-    "multiagent": "^1.0.2"
+    "multiagent": "^1.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",
