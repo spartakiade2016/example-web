@@ -3,9 +3,7 @@ import agent from 'multiagent';
 import greeter from './greeter';
 
 const DISCOVERY_SERVERS = [
-  'http://???.???.???.001:8500',
-  'http://???.???.???.002:8500',
-  'http://???.???.???.003:8500'
+  'http://46.101.251.23:8500',
 ];
 
 const client = agent.client({
